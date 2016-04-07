@@ -1,8 +1,9 @@
-##akka-http-circe-json-template
+##akka-http-argonaut-json-template
 
 [![Build Status](https://travis-ci.org/notvitor/akka-http-argonaut-json-template.svg?branch=master)](https://travis-ci.org/notvitor/akka-http-argonaut-json-template)
 
 REST API Project Template using Akka HTTP 2.4.3 with Argonaut 6.1
+
 
 
 ## License ##
