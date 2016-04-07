@@ -10,9 +10,7 @@ src_managed/
 project/boot/
 project/plugins/project/
 .scala_dependencies
-/.idea
-/.idea/vcs.xml
+**/.idea/**
 /project/project
 /project/target
-/target
 .worksheet
