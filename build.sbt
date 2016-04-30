@@ -25,10 +25,10 @@ lazy val buildSettings = Seq(
   )
 )
 
-val akkaV         = "2.4.3"
+val akkaV         = "2.4.4"
 val argonautV     = "6.1"
 val scalaTestV    = "2.2.6"
-val akkaArgonautV = "1.5.3"
+val akkaArgonautV = "1.6.0"
 
 lazy val `template` = project
   .in(file("."))
